@@ -8,4 +8,4 @@
 ***
 **Monitoria:** Suellen Miranda Amorim
 ***
-## Descrição geral do Pset 1
+## Descrição geral do Pset 1:
