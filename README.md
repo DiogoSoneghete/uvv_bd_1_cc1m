@@ -16,3 +16,4 @@ Depois de instalar o Virtual Box eu fiz o modelo de tabelas pelo Architect e use
 Os arquivos estão disponiveis dentro da pasta "Pset1" em cada uma das pastas com seu Próprio nome como :
 * MariaDB : Para os arquivos correspondentes ao Script do MariaDB
 * Architect : Para os arquivos de projetos do Architect
+* PostgreSQL : Para os arquicos correspondentes ao Script do PostgreSQL
