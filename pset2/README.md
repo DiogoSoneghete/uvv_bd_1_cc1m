@@ -17,7 +17,7 @@ Os arquivos estão disponiveis dentro deste subdiretório Pset2 em formato SQL.
 ***
 
 **imagens**
-***
+
 
 **Atividade 1**
 
