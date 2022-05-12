@@ -31,7 +31,7 @@ Os arquivos estão disponiveis dentro deste subdiretório Pset2 em formato SQL.
 
 **Atividade 3**
 
-![Captura de tela 3](https://user-images.githubusercontent.com/103038064/168181612-f7ae4cae-aa30-4ff9-a16f-69bf74661761.png)
+![Captura de tela 3](https://user-images.githubusercontent.com/103038064/168184259-c0e0cabf-4f32-48ae-9356-fe3ffab7a260.png)
 
 
 **Atividade 4**
