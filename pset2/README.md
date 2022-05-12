@@ -16,7 +16,7 @@ Utilizei o aplicativo desktop do MariaDB para fazê-lo, mas funciona no Mysql pe
 Os arquivos estão disponiveis dentro deste subdiretório Pset2 em formato SQL.
 ***
 
-**imagens**
+# imagens
 
 
 **Atividade 1**
