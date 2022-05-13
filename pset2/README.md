@@ -23,12 +23,6 @@ Os arquivos estão disponiveis dentro deste subdiretório Pset2 em formato SQL.
 * Prepare um relatório que mostre a média salarial dos funcionários
 de cada departamento.
 
-SQL:
-
-SELECT   numero_departamento, AVG (salario) AS "media_salarial"
-FROM     funcionario
-GROUP BY numero_departamento;
-
 ![Captura de tela 1](https://user-images.githubusercontent.com/103038064/168180153-187c3a43-8706-4043-a6ba-b24a604aa748.png)
 ***
 
