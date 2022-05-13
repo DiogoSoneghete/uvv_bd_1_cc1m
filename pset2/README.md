@@ -20,7 +20,6 @@ Os arquivos estão disponiveis dentro deste subdiretório Pset2 em formato SQL.
 
 
 ### Atividade 1
-
 * Prepare um relatório que mostre a média salarial dos funcionários
 de cada departamento.
 
@@ -28,7 +27,6 @@ de cada departamento.
 ***
 
 ### Atividade 2
-
 * Prepare um relatório que mostre a média salarial dos homens e das
 mulheres.
 
@@ -36,7 +34,6 @@ mulheres.
 ***
 
 ### Atividade 3
-
 * Prepare um relatório que liste o nome dos departamentos e, para
 cada departamento, inclua as seguintes informações de seus funcionários: o nome
 completo, a data de nascimento, a idade em anos completos e o salário.
@@ -45,7 +42,6 @@ completo, a data de nascimento, a idade em anos completos e o salário.
 ***
 
 ### Atividade 4
-
 * Prepare um relatório que mostre o nome completo dos funcionários,
 a idade em anos completos, o salário atual e o salário com um reajuste que
 obedece ao seguinte critério: se o salário atual do funcionário é inferior a 35.000 o
